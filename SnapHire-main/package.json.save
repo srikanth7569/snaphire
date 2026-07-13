@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "install": "^0.13.0"
+  },
+  "name": "snaphire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraneethKandukuriii/SnapHire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraneethKandukuriii/SnapHire/issues"
+  },
+  "homepage": "https://github.com/PraneethKandukuriii/SnapHire#readme",
+  "description": ""
+}
+"scripts": {
+  "start": "node index.js",
+  "dev": "nodemon index.js"
+}
+

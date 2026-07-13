@@ -1,0 +1,26 @@
+{
+  "name": "snaphire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraneethKandukuriii/SnapHire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PraneethKandukuriii/SnapHire/issues"
+  },
+  "homepage": "https://github.com/PraneethKandukuriii/SnapHire#readme"
+}
+
+
